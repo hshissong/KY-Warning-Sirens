@@ -11,6 +11,7 @@ Why: according to the government of Boone County, Missouri (https://www.showmebo
 How:
 
 Jeff Co data link: https://jefferson-ky-outdoor-warning-sirens-lojic.hub.arcgis.com/
+Most data around Cinci from OSM
 
 ## Project Contents
 
