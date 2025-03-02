@@ -21,6 +21,12 @@ Active link to the final index.html page
 Include embedded images, as needed, to document the mapping process, including key data management or geoprocessing steps and settings
 Information about the projection of the final map
 
+ The README.md file will be visualized at the pathway following the pattern *https://github.com/username/repository-name*
+
+ The index.html file will be visualized at *https://username.github.io/repository-name*. 
+
+ You will need to create links on each page that links to the other page. For example, creating a link on the README.md file that takes the viewer to the index.html page.
+
 Jeff Co data link: https://jefferson-ky-outdoor-warning-sirens-lojic.hub.arcgis.com/
 Most data around Cinci from OSM
 
