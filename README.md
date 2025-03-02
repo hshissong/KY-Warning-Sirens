@@ -14,6 +14,8 @@ many sirens for smaller towns or rural counties write out a description of the l
 
 Some lists are managed by cities but most appear to be managed by counties. Some local National Weather Service offices keep a list of sirens they know about but most just include general information about the use of sirens. Sirens are not set off remotely by a national or even local network. Instead most of them are set off singularly leading to a host of problems. A county official can set of the "tornado siren" when there is no threat of tornado, triggering local anxiety. This can also be used as a great tool to alert for local dangers that may not otherwise be tracked. Because sirens are not set off as a group, there has been no need to assemble a database of their locations across a state or the entire nation. Most are managed by the county emergency response teams which is why most of the listings seem to be managed by counties. 
 
+Additionally data around large urban centers proved easier to locate and use while data for more rural locations was impossible to locate. 
+
 Must include:
 Project title
 Information about data sources
