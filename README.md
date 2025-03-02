@@ -10,6 +10,17 @@ What:a map showing known locations of outdoor warning sirens in the Commonwealth
 Why: according to the government of Boone County, Missouri (https://www.showmeboone.com/oem/resources/sirens.asp) outdoor warning sirens can reliably be heard at a distance of one mile
 How:
 
+Must include:
+Project title
+Information about data sources
+Link to data sources where applicable, or a copy of the full data source for download
+Markdown formatting throughout the document
+Description of why you created the map
+Description of how the map was created, including any geoprocessing methods or other steps you took, described in a way that someone else could recreate your map process in a new location
+Active link to the final index.html page
+Include embedded images, as needed, to document the mapping process, including key data management or geoprocessing steps and settings
+Information about the projection of the final map
+
 Jeff Co data link: https://jefferson-ky-outdoor-warning-sirens-lojic.hub.arcgis.com/
 Most data around Cinci from OSM
 
