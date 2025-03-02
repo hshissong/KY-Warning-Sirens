@@ -10,6 +10,10 @@ What:a map showing known locations of outdoor warning sirens in the Commonwealth
 Why: according to the government of Boone County, Missouri (https://www.showmeboone.com/oem/resources/sirens.asp) outdoor warning sirens can reliably be heard at a distance of one mile
 How:
 
+many sirens for smaller towns or rural counties write out a description of the location on a website such as: "Danville Fire Department Station 1 (Main Street)". While this information is helpful for local residents who go searching for that specific information, it is not helpful for a statewide or national initiative or database. Collecting all written locations like this across the state of Kentucky was outside the scope of realistic work to take on for this project but would make an excellent research project and case for further study.
+
+Some lists are managed by cities but most appear to be managed by counties. Some local National Weather Service offices keep a list of sirens they know about but most just include general information about the use of sirens. Sirens are not set off remotely by a national or even local network. Instead most of them are set off singularly leading to a host of problems. A county official can set of the "tornado siren" when there is no threat of tornado, triggering local anxiety. This can also be used as a great tool to alert for local dangers that may not otherwise be tracked. Because sirens are not set off as a group, there has been no need to assemble a database of their locations across a state or the entire nation. Most are managed by the county emergency response teams which is why most of the listings seem to be managed by counties. 
+
 Must include:
 Project title
 Information about data sources
