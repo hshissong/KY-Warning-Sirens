@@ -20,8 +20,9 @@ If you wanted to include a table of contents to sections, and then links to each
 
 ### Data Source
 
-[Link to data source](https://data.lexingtonky.gov/datasets/eab218eb4e2249d59a39401b5ee25d6e/explore)
-[Link to data source](https://jefferson-ky-outdoor-warning-sirens-lojic.hub.arcgis.com/) 
+[Link to Fayette county data source](https://data.lexingtonky.gov/datasets/eab218eb4e2249d59a39401b5ee25d6e/explore)
+
+[Link to metro Louisville data source](https://jefferson-ky-outdoor-warning-sirens-lojic.hub.arcgis.com/) 
 Cody Ashbaugh at Louisville Metro Emergency Services supplied additional data for Jefferson, Shelby, Bullitt, Spencer, and Oldham counties. Many thanks to him for this work!
 Most data around Cincinnati and the outliers across the state came from Open Street Map
 
