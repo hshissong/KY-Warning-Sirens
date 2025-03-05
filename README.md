@@ -24,6 +24,7 @@ If you wanted to include a table of contents to sections, and then links to each
 
 [Link to metro Louisville data source](https://jefferson-ky-outdoor-warning-sirens-lojic.hub.arcgis.com/) 
 Cody Ashbaugh at Louisville Metro Emergency Services supplied additional data for Jefferson, Shelby, Bullitt, Spencer, and Oldham counties. Many thanks to him for this work!
+
 Most data around Cincinnati and the outliers across the state came from Open Street Map
 
 Many sirens for smaller towns or rural counties write out a description of the location on a website such as: "Danville Fire Department Station 1 (Main Street)". While this information is helpful for local residents who go searching for that specific information, it is not helpful for a statewide or national initiative or database. Collecting all written locations like this across the state of Kentucky was outside the scope of realistic work to take on for this project but would make an excellent research project and case for further study.
