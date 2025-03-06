@@ -43,4 +43,4 @@ Because of the margin of error regarding how far from the siren the alert can be
 
 ## Final Project Link
 
-Please view the [final map online](https://hshissong.github.io/KY-Warning-Sirens/)
+Please view the [final maps online](https://hshissong.github.io/KY-Warning-Sirens/)
