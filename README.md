@@ -1,12 +1,6 @@
 # KY-Warning-Sirens
 A project mapping known locations of outdoor warning sirens in Kentucky created by Hannah Hissong for University of Kentucky in February-March 2025
 
-Must include:
-Active link to the final index.html page
- The README.md file will be visualized at the pathway following the pattern *https://github.com/username/repository-name*
- The index.html file will be visualized at *https://username.github.io/repository-name*. 
- You will need to create links on each page that links to the other page. For example, creating a link on the README.md file that takes the viewer to the index.html page.
-
 ## Project Contents
 
 If you wanted to include a table of contents to sections, and then links to each section.
@@ -49,6 +43,4 @@ At a state level, the outlook is bleak. Much of this map is empty because I was 
 
 ## Final Project Link
 
-Here you are linking from the README.md to the index.html.
-
-Please view the [final map online](www.github...)
+Please view the [final map online](https://hshissong.github.io/KY-Warning-Sirens/)
